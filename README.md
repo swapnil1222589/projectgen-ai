@@ -5,3 +5,4 @@ AI platform that converts project ideas into MVP, pitch, README and resume descr
 ## Run
 npm install
 npm start
+   
